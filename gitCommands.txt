@@ -1,0 +1,10 @@
+git config --global user.name "username"
+git config --global user.email "email"
+git config --global http.proxy [proxyaddress]
+git diff
+git status
+git clone [address]
+git init
+git commit -m [message]
+git remote add origin [address]
+git push origin master
