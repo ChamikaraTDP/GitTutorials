@@ -14,4 +14,6 @@ Go to the directory RapidApplicationDevelopment
 Go to the directory Module
 Create a file index.html
 
-
+git config --global --unset credential.helper
+git branch B1
+git checkout B1
